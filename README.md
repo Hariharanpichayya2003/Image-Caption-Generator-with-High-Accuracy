@@ -7,7 +7,7 @@ Created by altering the traditional cnn-lstm method. Predicting the words for im
 STEPS : 
 
 1.) Import all the necessary packages
-2.) Coonect with Drive to access dataset
+2.) Connect with Drive to access dataset
 3.) Pre - Processing Data : 
      * Load the Data
      * Clean th Data
